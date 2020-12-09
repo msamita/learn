@@ -7,3 +7,4 @@ git commit -m "my message"
 git push
 git pull
 git status
+I am testing editing locally on my computer
